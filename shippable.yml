@@ -1,0 +1,5 @@
+language: php
+php: 5.3
+install: true
+script:
+ - php -r "date_default_timezone_set('Europe/Kiev');"
